@@ -1,0 +1,22 @@
+Subway missed connections
+
+database:
+make guess at probability that it's on subway
+look for words like:
+train,subway, platform, uptown, downtown, bound
+
+'train' in location strongest single
+
+limit to manhattan brooklyn queens bronx
+
+make guess at most probable line: regexp looking for single letter/number
+
+use subway lettering (or alternatively LCD like countdown clock) 
+
+visualize so you can click on line number and see stream of most recent missed connections
+
+allow search
+
+give option to have user say it's not a subway post and record
+
+give option to post new subway post
